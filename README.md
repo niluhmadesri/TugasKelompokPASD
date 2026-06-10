@@ -151,3 +151,7 @@ Menerima data rumah dalam format JSON dan mengembalikan prediksi harga.
 - [FastAPI Documentation](https://fastapi.tiangolo.com)
 - [Scikit-learn California Housing Dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
 - [Repository GitHub](https://github.com/niluhmadesri/TugasKelompokPASD)
+
+
+## File .joblib
+- https://drive.google.com/file/d/10AnP636vFAe8ZpFHIdg7ZzxsKa6SR9IS/view?usp=sharing 
